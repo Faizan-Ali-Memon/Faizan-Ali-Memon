@@ -37,4 +37,4 @@ I have experience deploying AI models on **AWS (EC2, ECR)** and building backend
 ---
 
 ### 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=faizan_ali_memon&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Faizan-Ali-Memon&show_icons=true&theme=radical)
